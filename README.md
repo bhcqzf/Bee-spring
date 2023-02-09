@@ -7,6 +7,8 @@
 
 因缺少微信支付接口权限，微信支付功能暂未实现
 
+配合我做了略微修改的前台使用https://gitee.com/bai4246363/bee-customize
+
 #### 软件架构
 软件架构说明
 采用springboot框架，数据库使用mysql
