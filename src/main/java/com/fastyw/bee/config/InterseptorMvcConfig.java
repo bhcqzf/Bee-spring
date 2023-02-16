@@ -1,4 +1,4 @@
-package com.fastyw.bee.Config;
+package com.fastyw.bee.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

@@ -1,4 +1,4 @@
-package com.fastyw.bee.Config;
+package com.fastyw.bee.config;
 
 import com.fastyw.bee.util.RequestBodyWrapper;
 import lombok.extern.slf4j.Slf4j;

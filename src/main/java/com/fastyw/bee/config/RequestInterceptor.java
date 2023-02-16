@@ -1,4 +1,4 @@
-package com.fastyw.bee.Config;
+package com.fastyw.bee.config;
 
 
 import com.alibaba.fastjson.JSON;
